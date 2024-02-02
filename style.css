@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+#gem-container {
+  margin-top: 100px;
+}
+
+#gem {
+  width: 150px;
+  height: 150px;
+  cursor: pointer;
+}
+
+#score-container {
+  margin-top: 50px;
+}
